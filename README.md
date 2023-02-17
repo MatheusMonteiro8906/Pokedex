@@ -1,2 +1,2 @@
 # Pokedex
-Pokedex web usado API.
+Pokedex web usando API.
